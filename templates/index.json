@@ -1,0 +1,216 @@
+{
+  "sections": {
+    "slideshow_ApYTaL": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_jNP3qg": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bipha-10_1.png",
+            "heading": "Rediscover Harmony with Bipha Ayurveda",
+            "heading_size": "h1",
+            "subheading": "Rediscover Harmony with Bipha Ayurveda",
+            "button_label": "Shop Now",
+            "link": "#",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "slide_jNP3qg"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Collection",
+        "heading_size": "h1",
+        "description": "<p>Explore the whatever heading goes here<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_ywaacm": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_g64rUJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_KJydLH": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_g64rUJ",
+        "text_KJydLH"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Bipha-01_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection_HnKt9M": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Wellness",
+        "heading_size": "h1",
+        "description": "<p>Explore the whatever heading goes here<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_xL7gVU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_PwAMMx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story",
+            "heading_size": "h1"
+          }
+        },
+        "text_VUED77": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rooted in Tradition, Inspired by Innovation Welcome to the legacy of Bipha Ayurveda, a journey spanning nine decades of holistic healing and wellness. Founded in 1929 amidst the lush landscapes of Kerala, Bipha Ayurveda began as a humble pharmacy with a profound vision—to share the timeless wisdom of Ayurveda with the world.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PwAMMx",
+        "text_VUED77"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_880.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_9peLUH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_z9wdCE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Witness the truth",
+            "heading_size": "h1"
+          }
+        },
+        "text_47n7eM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Experience Authenticity, Embrace Wellness At Bipha Ayurveda, we invite you to witness the truth of Ayurveda—a timeless science rooted in nature and steeped in tradition. Our commitment to authenticity ensures that every product embodies the essence of Ayurvedic wisdom, delivering holistic wellness and healing with every use.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_z9wdCE",
+        "text_47n7eM"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_880_1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_ApYTaL",
+    "featured_collection",
+    "image_banner_ywaacm",
+    "featured_collection_HnKt9M",
+    "image_with_text_xL7gVU",
+    "image_with_text_9peLUH"
+  ]
+}
